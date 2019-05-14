@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="calc">Калькулятор</string>
+    <string name="из">Из</string>
+    <string name="в">В</string>
+    <string name="ой">- ой</string>
+    <string name="ую">- ую</string>
+    <string name="Введите_число">Введите число</string>
+    <string name="Перевести">Перевести</string>
+    <string name="Очистить">Очистить</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
