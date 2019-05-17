@@ -204,6 +204,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         android:background="@color/colorfone"
+        android:onClick="OnBtnClick"
         android:text="@string/Перевести"
         android:textAllCaps="false"
         android:textColor="@color/colorwhite"
